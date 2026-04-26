@@ -93,13 +93,13 @@ if (!$autenticado) {
 
 Se incluyen capturas de:
 
-* Ejecución de ldapwhoami (correcto)
+* ![Ejecución de ldapwhoami (correcto)](evidencias/Captura174439.png)
 * Ejecución de ldapwhoami (incorrecto)
 * Formulario web
 * Login exitoso
 * Login fall
 
-(evidencias/Captura174439.png)
+
 (evidencias/Captura174731.png)
 (evidencias/Captura175530.png)
 (evidencias/Captura175931.png)
