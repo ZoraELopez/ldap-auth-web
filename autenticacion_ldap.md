@@ -93,25 +93,25 @@ if (!$autenticado) {
 
 Se incluyen capturas de:
 
-* ![Ejecución de ldapwhoami (correcto)](evidencias/Captura174439.png)
+* Ejecución de ldapwhoami (correcto)
 * Ejecución de ldapwhoami (incorrecto)
 * Formulario web
 * Login exitoso
 * Login fall
 
-
-(evidencias/Captura174731.png)
-(evidencias/Captura175530.png)
-(evidencias/Captura175931.png)
-(evidencias/Captura185737.png)
-(evidencias/Captura174532.png)
-(evidencias/Captura174857.png)
-(evidencias/Captura175602.png)
-(evidencias/Captura175955.png)
-(evidencias/Captura185753.png)
-(evidencias/Captura174659.png)
-(evidencias/Captura175132.png)
-(evidencias/Captura175907.png)
-(evidencias/Captura180228.png)
-(evidencias/Captura85724.png)
+![1](evidencias/Captura174439.png)
+![2](evidencias/Captura174731.png)
+![3](evidencias/Captura175530.png)
+![4](evidencias/Captura175931.png)
+![5](evidencias/Captura185737.png)
+![6](evidencias/Captura174532.png)
+![7](evidencias/Captura174857.png)
+![8](evidencias/Captura175602.png)
+![9](evidencias/Captura175955.png)
+![10](evidencias/Captura185753.png)
+![11](evidencias/Captura174659.png)
+![12](evidencias/Captura175132.png)
+![13](evidencias/Captura175907.png)
+![14](evidencias/Captura180228.png)
+![15](evidencias/Captura85724.png)
 
